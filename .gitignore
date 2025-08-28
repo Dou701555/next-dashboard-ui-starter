@@ -1,0 +1,11 @@
+node_modules/
+.next/
+out/
+dist/
+build/
+*.log
+.vscode/
+*.code-workspace
+.DS_Store
+Thumbs.db
+.env
