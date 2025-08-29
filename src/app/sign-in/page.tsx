@@ -1,6 +1,8 @@
+import AdminPage from "../(dashboard)/admin/page";
+
 function LoginPage(){
     return(
-    <div className="">LoginPage</div>
+    <div className=""><AdminPage/></div>
     )
 }
 export default LoginPage;
